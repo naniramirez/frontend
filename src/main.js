@@ -17,6 +17,7 @@ import {router} from "./routes/routes.js"
 
 axios.defaults.baseURL="http://localhost:5000/api/"
 //axios.defaults.baseURL="https://appcompraventa.herokuapp.com/api"
+//axios.defaults.baseURL = "https://git.heroku.com/vuecompraventa.git/api/"
 
 //mongodb+srv://yenis:compraventa@cluster0.3e7li.mongodb.net/?retryWrites=true&w=majority
 
